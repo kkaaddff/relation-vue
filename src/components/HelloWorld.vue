@@ -5,7 +5,6 @@
 
 <script>
 import { data } from './data'
-import * as d3 from 'd3'
 import RelationChart from './index'
 export default {
   name: 'HelloWorld',
